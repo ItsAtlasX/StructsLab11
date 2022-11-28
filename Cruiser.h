@@ -25,6 +25,6 @@ public:
     Cruiser() = delete;
 
 };
-
+// non conflict change
 // a change
 
