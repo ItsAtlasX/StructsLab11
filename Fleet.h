@@ -5,6 +5,7 @@
 #include <vector>
 #include <memory>
 
+// no conflict comment for git
 
 // Declaration for the class 
 
