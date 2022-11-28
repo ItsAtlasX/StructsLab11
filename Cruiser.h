@@ -26,5 +26,8 @@ public:
 
 };
 // non conflict change
+
 // a change
+// another change
+// a third change
 
